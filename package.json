@@ -1,0 +1,26 @@
+{
+  "name": "example-dependent-id-a",
+  "version": "1.0.0",
+  "description": "This repository has been created for use as an example in the use of the wiby tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghinks/example-dependent-id-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghinks/example-dependent-id-a/issues"
+  },
+  "homepage": "https://github.com/ghinks/example-dependent-id-a#readme",
+  "devDependencies": {
+    "tap": "^15.1.2"
+  },
+  "dependencies": {
+    "@gvhinks/example-dependency-id-a": "^0.0.0-development"
+  }
+}
