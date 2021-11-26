@@ -21,6 +21,6 @@
     "tap": "^15.1.2"
   },
   "dependencies": {
-    "@gvhinks/example-dependency-id-a": "^0.0.0-development"
+    "@gvhinks/example-dependency-id-a": "ghinks/example-dependency-a#main"
   }
 }
